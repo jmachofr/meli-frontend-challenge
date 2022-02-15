@@ -31,6 +31,6 @@ npm start
 
 npm run server
 ```
-The front-end app should now be up and running at [localhost:3000] 👉 (http://localhost:3000)
+The front-end app should now be up and running at [localhost:3000] 👉 (http://localhost:3000)__
 The back-end server should now be up and runing at [localhost:8080] 👉 (http://localhost:8080)
 
