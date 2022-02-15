@@ -1,4 +1,4 @@
-# Mercadolibre Front-end Challenge
+# Front-End Challenge MercadoLibre
 
 ## Built With
 
