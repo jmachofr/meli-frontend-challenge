@@ -28,8 +28,9 @@ npm i
 Run these commands on the terminal
 ```
 npm start
-```
+
 npm run server
 ```
-The app should now be up and running at [localhost:3000] 👉 (http://localhost:3000)
+The front-end app should now be up and running at [localhost:3000] 👉 (http://localhost:3000)
+The back-end server should now be up and runing at [localhost:8080] 👉 (http://localhost:8080)
 
