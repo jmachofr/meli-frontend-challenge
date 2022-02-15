@@ -1,0 +1,96 @@
+.detailCointaner {
+  width: 60%;
+  min-width: 1000px;
+  background-color: white;
+  margin: auto;
+  padding-bottom: 32px;
+}
+
+.categories__text {
+  color: #999999;
+  font-size: 14px;
+  margin: auto;
+  margin-bottom: 16px;
+  margin-top: 16px;
+  max-width: 60%;
+  text-align: left;
+}
+
+.first__row {
+  display: flex;
+}
+
+.detail__info {
+  width: 25%;
+  margin-right: 32px;
+  margin-top: 32px;
+  margin-left: auto;
+}
+
+.state__sold {
+  font-size: 14px;
+  margin-bottom: 16px;
+  color: #666666;
+}
+
+.detail__title {
+  font-size: 24px;
+  font-weight: 500;
+  color: #333333;
+}
+
+.detail__price {
+  font-size: 46px;
+  margin-top: 32px;
+  margin-bottom: 32px;
+  color: #333333;
+}
+
+.first__row > img {
+  width: 100%;
+  max-width: 680px;
+  min-width: 680px;
+  max-height: 680px;
+  object-fit: contain;
+  border-radius: 4px;
+  margin-top: 32px;
+  margin-left: 32px;
+  margin-bottom: 32px;
+}
+
+button {
+  padding: 15px;
+  background-color: #3483fa;
+  color: white;
+  border-radius: 4px;
+  font-size: 16px;
+  border: none;
+  width: 100%;
+  cursor: pointer;
+}
+
+.description__title {
+  font-size: 28px;
+  margin-left: 32px;
+  color: #333333;
+}
+
+.price__decimals {
+  font-size: 24px !important;
+  vertical-align: super;
+  color: #333333;
+}
+
+.description__text {
+  font-size: 16px;
+  margin-left: 32px;
+  width: 69%;
+  margin-top: 32px;
+  color: #999999;
+}
+
+.loading__gif {
+  display: flex;
+  margin-top: 10%;
+  justify-content: center;
+}

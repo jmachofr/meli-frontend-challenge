@@ -1,0 +1,28 @@
+.products__list {
+  padding: 0;
+}
+
+.categories__text {
+  display: flex;
+  flex-direction: row;
+  color: #999999;
+  font-size: 14px;
+  margin: auto;
+  max-width: 760px;
+  min-width: 600px;
+  text-align: left;
+  padding: 0;
+}
+
+.no__results {
+  font-size: 24px;
+  font-weight: 600;
+  text-align: center;
+  margin-top: 5%;
+}
+
+.loading__gif {
+  display: flex;
+  margin-top: 10%;
+  justify-content: center;
+}
