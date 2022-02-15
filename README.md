@@ -2,9 +2,8 @@
 
 ## Built With
 
-* Next.js
+* React.js
 * Express
-* Styled Components
 
 ## Getting Started
 
