@@ -9,7 +9,7 @@
 
 ### Clone repository
 ```
-git clone https://github.com/AzuZhou/meli-frontend-challenge.git
+git clone ttps://github.com/jmachofr/meli-frontend-challenge.git
 ```
 
 ### Install packages
